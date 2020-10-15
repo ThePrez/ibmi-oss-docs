@@ -14,7 +14,7 @@ This documentation is open source! Please feel free to help this documentation g
 # Table Of Contents
 - ["Getting Started" and general information](yum/)
 - [open source troubleshooting (common problems)](troubleshooting/)
-- [Migrating from 5733-OPS to RPMs](troubleshooting/5733OPS_MIGRATION.md)
+- [Migrating from 5733-OPS to RPMs](troubleshooting/5733OPS_MIGRATION)
 - [Using Node Version Manager (nvm) to manage and build Node.js versions from community source](nvm/)
 - [Nginx](nginx.md)
 - [Porting Software to PASE](porting)
